@@ -1,0 +1,6 @@
+server:
+  port: 8081
+
+jenkins:
+  username: devidinesh07
+  password: password
